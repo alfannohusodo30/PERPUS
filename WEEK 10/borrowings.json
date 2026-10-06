@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "username": "andi",
+    "book_id": 1,
+    "judul": "Laskar Pelangi",
+    "tanggal_pinjam": "2026/06/09",
+    "tanggal_kembali": "2026/11/09",
+    "status": "Dipinjam"
+  }
+]
